@@ -17,4 +17,14 @@ http://localhost:{PORT}
 ```
 
 
+Para correr el Algoritmo 
+
+```
+
+$ cd script
+$  node algorithm.js 
+```
+
+
+
 
