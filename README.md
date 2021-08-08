@@ -12,9 +12,4 @@ $ npm start or yarn start
 url :
     ```
     http://localhost:{PORT}
-    ```
-Swagger : 
-    ```
-    http://localhost:{PORT}/api/doc
-    ```
 
