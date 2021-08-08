@@ -1,15 +1,12 @@
-# LYA-ELECTRONIC TEST
+# CUEMBY TEST 
 
 
-Para poder probar el test primero instalar todas las depencias y luego correr el proyecto correctamente 
-los enviroments habrán llegado al correo junto con link de este proyecto. 
-
-Tengan excelente día
+Para correr el proyecto 
 
 
 ```
 $ npm install or yarn
-$ npm run dev or yarn dev
+$ npm start or yarn start
 ```
 
 url :
